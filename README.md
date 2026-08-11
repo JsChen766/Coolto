@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/JsChen766/Coolto"><img alt="Official repository" src="https://img.shields.io/badge/Official-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://afdian.com/"><img alt="Afdian creator verification" src="https://img.shields.io/badge/爱发电-创作者认证中-EC4899?style=for-the-badge&logo=lightning&logoColor=white" /></a>
+  <a href="https://afdian.com/a/coolto_ai"><img alt="Support Coolto on Afdian" src="https://img.shields.io/badge/爱发电-支持%20Coolto-EC4899?style=for-the-badge&logo=lightning&logoColor=white" /></a>
   <img alt="Product status" src="https://img.shields.io/badge/Product-Active%20Development-F59E0B?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
@@ -37,7 +37,7 @@
 
 ## 💜 在爱发电支持 Coolto
 
-Coolto 正在申请成为爱发电认证创作者。认证完成后，我们会在这里更新正式的爱发电主页与购买入口。
+Coolto 的[爱发电官方主页](https://afdian.com/a/coolto_ai)已经上线，目前正在完成创作者认证。后续正式支持计划与购买入口均以该页面为准。
 
 计划通过爱发电提供以下支持方式：
 
@@ -83,7 +83,7 @@ Coolto 采用桌面端、本地 Agent、业务 API 与独立 Credit 服务协作
 
 - 项目维护者：[@JsChen766](https://github.com/JsChen766)
 - 官方仓库：[github.com/JsChen766/Coolto](https://github.com/JsChen766/Coolto)
-- 爱发电主页：创作者认证完成后更新
+- 爱发电主页：[afdian.com/a/coolto_ai](https://afdian.com/a/coolto_ai)
 
 <p align="center">
   <br />
