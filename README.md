@@ -19,7 +19,7 @@
 
 - **下载页面**：[https://home.coolto.com.cn/downloads/](https://home.coolto.com.cn/downloads/)
 - Windows 安装包：[Coolto-0.1.4-x64.exe](https://home.coolto.com.cn/downloads/Coolto-0.1.4-x64.exe)
-- macOS 安装包：由 GitHub Actions 构建（`cv_agent_frontend` 仓库手动触发 `Build macOS Release`），构建完成后下载页自动提供
+- macOS 安装包（Apple 芯片 / Intel）：见下载页，由 GitHub Actions 自动构建并发布
 
 > Windows 版本未签名，首次运行可能触发 SmartScreen"未知发布者"提示，选择"更多信息 → 仍要运行"即可。
 
