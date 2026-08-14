@@ -7,10 +7,21 @@
 </p>
 
 <p align="center">
+  <a href="https://home.coolto.com.cn/downloads/"><img alt="Download Coolto Desktop" src="https://img.shields.io/badge/下载-桌面客户端-7C3AED?style=for-the-badge&logo=electron&logoColor=white" /></a>
   <a href="https://github.com/JsChen766/Coolto"><img alt="Official repository" src="https://img.shields.io/badge/Official-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://afdian.com/a/coolto_ai"><img alt="Support Coolto on Afdian" src="https://img.shields.io/badge/爱发电-支持%20Coolto-EC4899?style=for-the-badge&logo=lightning&logoColor=white" /></a>
   <img alt="Product status" src="https://img.shields.io/badge/Product-Active%20Development-F59E0B?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
+
+## ⬇️ 下载桌面客户端
+
+支持 **Windows（x64）** 与 **macOS（Universal）**。安装后应用会自动检查更新。
+
+- **下载页面**：[https://home.coolto.com.cn/downloads/](https://home.coolto.com.cn/downloads/)
+- Windows 安装包：[Coolto-0.1.4-x64.exe](https://home.coolto.com.cn/downloads/Coolto-0.1.4-x64.exe)
+- macOS 安装包：由 GitHub Actions 构建（`cv_agent_frontend` 仓库手动触发 `Build macOS Release`），构建完成后下载页自动提供
+
+> Windows 版本未签名，首次运行可能触发 SmartScreen"未知发布者"提示，选择"更多信息 → 仍要运行"即可。
 
 ---
 
